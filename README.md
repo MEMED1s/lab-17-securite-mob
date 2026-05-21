@@ -125,7 +125,8 @@ cd ..
 apktool b uncrackable3 -o UnCrackable-Level3-patched.apk
 ```
 
-<img width="2172" height="724" alt="pic6" src="https://github.com/user-attachments/assets/7fb2cc1d-7a43-47ad-81e8-cb9b42da0a9d" />
+<img width="1423" height="364" alt="image" src="https://github.com/user-attachments/assets/9a418f96-4eee-489d-b149-ffa480571f92" />
+
 
 ---
 
