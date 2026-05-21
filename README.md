@@ -7,7 +7,8 @@
 
 ##  Objectifs d'apprentissage
 
-<img width="333" height="738" alt="pic1" src="https://github.com/user-attachments/assets/3c32115b-fbde-492b-915c-196379bbd9b7" />
+<img width="331" height="775" alt="image" src="https://github.com/user-attachments/assets/2df38c02-8eb5-4fde-8eda-fbfacf3acd6f" />
+
 
 
 À la fin de ce lab, tu sauras :
