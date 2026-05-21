@@ -1,4 +1,4 @@
-<img width="1334" height="623" alt="pic10" src="https://github.com/user-attachments/assets/a17271b6-f2fe-47a6-a2fd-065cd5195690" /><img width="1334" height="623" alt="pic10" src="https://github.com/user-attachments/assets/3c2aa6f1-d63d-413d-861c-72c9fc61b522" />#  LAB 17 — Cracker OWASP UnCrackable Android Level 3
+#  LAB 17 — Cracker OWASP UnCrackable Android Level 3
 
 > **Cours : Sécurité des applications mobiles**  
 > Outils utilisés : `apktool` · `jadx-gui` · `Ghidra` · `adb` · `Python`
